@@ -585,6 +585,4 @@ Current implementation includes the RTL design of the **4×4 INT8 systolic-array
 
 The project is being further developed toward comprehensive FPGA performance, timing, power, and energy-efficiency evaluation.
 
-```
-
 
